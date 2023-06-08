@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589108644045",
+    "project_id": "ship24-7f119",
+    "storage_bucket": "ship24-7f119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589108644045:android:93684eefea4e9cf18f8184",
+        "android_client_info": {
+          "package_name": "com.ship24.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589108644045-o53bs7aq78l597ecn7gsrfdttl3agigd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHg1orbvVawF2p1m8HAAudgc1QAB_Iig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589108644045-o53bs7aq78l597ecn7gsrfdttl3agigd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
